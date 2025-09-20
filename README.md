@@ -3,6 +3,10 @@
 
 <h2>👨‍💻 Information Technology Projects and Cybersecurity Project Portfolio:</h2>
 
+I'm passionate about IT and Cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects enable me to delve deeply into the ever-evolving landscape of cybersecurity. Please feel free to review them and see the work I’ve put into enhancing security operations and processes.
+
+
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jmecono85/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/jmecono85/post-install-config)
