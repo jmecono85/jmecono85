@@ -17,7 +17,7 @@ I'm passionate about IT and Cybersecurity and love tackling complex challenges t
  
   - ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/jmecono85/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/jmecono85/Vulnerability-Management-Program-Implementation/tree/main)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jmecono85/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
