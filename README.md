@@ -1,7 +1,7 @@
 <h1> Jeffrey Mecono's IT and Cybersecurity Project Portfolio  <a href="https://linkedin.com/in//jeffrey-mecono-554654134
 "> </a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects and Cybersecurity Project Portfolio:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/jmecono85/osticket-prereqs)
