@@ -22,7 +22,7 @@ I'm passionate about IT and Cybersecurity and love tackling complex challenges t
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jmecono85/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jmecono85/Threat-Hunting-Scenario-Tor-Browser-Usage-)**
 
 
 <h2>🤳Connect with me:</h2>
