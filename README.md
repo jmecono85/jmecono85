@@ -15,16 +15,7 @@ I'm passionate about IT and Cybersecurity and love tackling complex challenges t
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/jmecono85/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/jmecono85/azure-network-protocols)
  
-  - ## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/jmecono85/Vulnerability-Management-Program-Implementation/tree/main)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jmecono85/programmatic-vulnerability-remediations)**
-
-## 🚨 Threat Hunting and Security Operations
-
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/jmecono85/Threat-Hunting-Scenario-Tor-Browser-Usage-)**
-
-
+ 
 <h2>🤳Connect with me:</h2>
 
 
