@@ -19,16 +19,16 @@ I'm passionate about IT and Cybersecurity and love tackling complex challenges t
  <b>⚠️ Vulnerability Management Projects</b>
 
 - [Vulnerability Management Program Implementation](https://github.com/jmecono85/Vulnerability-Management-Program/tree/main)
-- [Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/jmecono85/programmatic-vulnerability-remediations/tree/main)
+
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
  
 <h2>🤳Connect with me:</h2>
 
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 
 
 
